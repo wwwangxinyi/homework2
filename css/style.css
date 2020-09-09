@@ -29,7 +29,7 @@ img
 
 div
 {
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
 }
 
@@ -59,7 +59,7 @@ div
     background-color: green;
     text-align: left;
 }
-footer
+footer>p
 {
     text-align: right;
     padding: 0px 10px 10px 0px;
